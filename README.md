@@ -14,9 +14,9 @@ I have accumulated over five years of experience in coding, and my enthusiasm fo
 
 <h6>
 
-💼 Title: Software Engineer
+💼  Title: Software Engineer
 
-💻 Experience: 4+ years coding
+💻  Experience: 4+ years coding 
 
 ✉️  Email: [evblankenheim@gmail.com](mailto:evblankenheim@gmail.com)
 
@@ -24,7 +24,7 @@ I have accumulated over five years of experience in coding, and my enthusiasm fo
 
 </h6>
 
-</p>
+#####
 
 ### Website
 
