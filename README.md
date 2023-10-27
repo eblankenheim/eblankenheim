@@ -1,8 +1,6 @@
 ﻿<a href="https://github.com/eblankenheim" target="_blank"><img align="center" src="Evan's Github Profile.png" /></a>
 
-<p align="center">
-
-#
+<p align="left">
 
 ### My name is Evan Blankenheim
 
@@ -16,29 +14,53 @@ I have accumulated over five years of experience in coding, and my enthusiasm fo
 
 <h6>
 
+💼  Title: Software Engineer
+
+💻  Experience: 4+ years coding 
+
 ✉️  Email: [evblankenheim@gmail.com](mailto:evblankenheim@gmail.com)
 
 🌍  I'm based in Madison, WI
 
 </h6>
 
-##
-
 ### Website
 
 <a href="https://evanblankenheim.com" target="_blank" rel="noreferrer">
-<img src="./evanWebsiteLogo.png" height="45" alt="evanblankenheim.com" /></a>
+<img src="./evanWebsiteLogo.png" height="50" alt="evanblankenheim.com" /></a>
+
+##
+
+### Socials
+
+<p align="left">
+    <a href="https://www.github.com/eblankenheim" target="_blank" rel="noreferrer">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" />
+    </picture>
+    </a>
+    <a href="https://www.linkedin.com/in/evanblankenheim" target="_blank" rel="noreferrer">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
+    </picture>
+    </a>
+    <b>
+</p>
 
 ##
 
 ### Work Experience
 
 <a href="https://www.northwesternmutual.com/" target="_blank">
-<img src="NM.png" height="45" /></a>
+<img src="NM.png" height="40" /></a>
 <a href="https://www.uline.com/" target="_blank">
-<img src="uline.png" height="45" /></a>
+<img src="uline.png" height="40" /></a>
 <a href="https://www.genesis10.com/" target="_blank">
-<img src="10_Logo_Square.webp" height="45" /></a>
+<img src="10_Logo_Square.webp" height="40" /></a>
 
 ##
 
@@ -96,25 +118,3 @@ I have accumulated over five years of experience in coding, and my enthusiasm fo
 <a href="https://apple.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="40" height="40" alt="MacOS" /></a>
 </p>
-
-##
-
-### Socials
-
-<p align="left">
-    <a href="https://www.github.com/eblankenheim" target="_blank" rel="noreferrer">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-    </a>
-    <a href="https://www.linkedin.com/in/evanblankenheim" target="_blank" rel="noreferrer">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
-    </a>
-    <b>
-    </p>
