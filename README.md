@@ -14,15 +14,15 @@ I have accumulated over four years of experience in coding, and my enthusiasm fo
 
 <p>
 
-💼 Title: Software Engineer
+💼  Title: Software Engineer
 
-💻 Experience: 4+ years coding
+💻  Experience: 4+ years coding
 
-✉️ Email: [evblankenheim@gmail.com](mailto:evblankenheim@gmail.com)
+✉️  Email: [evblankenheim@gmail.com](mailto:evblankenheim@gmail.com)
 
-📄 Website: [evanblankenheim.com](evanblankenheim.com)
+📄  Website: [evanblankenheim.com](evanblankenheim.com)
 
-🌍 Location: Based in Madison, WI
+🌍  Location: Based in Madison, WI
 
 </p>
 
