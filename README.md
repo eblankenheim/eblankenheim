@@ -4,7 +4,7 @@
 
 ### My name is Evan Blankenheim
 
-I have accumulated over four years of experience in coding, and my enthusiasm for it remains unwavering. While my primary focus lies in front-end application development, I also possess a level of proficiency in back-end development.
+I have accumulated over four years of experience in coding, and my enthusiasm for it remains unwavering. While my primary focus lies in front-end application development, I also possess a level of proficiency in back-end.
 
 </p>
 
@@ -22,7 +22,7 @@ I have accumulated over four years of experience in coding, and my enthusiasm fo
 
 📄  Website: [evanblankenheim.com](evanblankenheim.com)
 
-🌍  Location: Based in Madison, WI
+🌍  Location: near Madison, WI
 
 </p>
 
